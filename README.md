@@ -4,7 +4,7 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | DAFFA SADEWA PUTRA|
+| **Nama** | WIORETA VEBRA AZHARI LEANDER|
 | **NIM** | 312310463 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
